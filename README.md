@@ -1,2 +1,3 @@
 About ...
-This is Shriya Singh, newly created an own websites using html.Gives you full detail about her.
+This is Shriya Singh, newly created an own websites using html,which gives you full detail about her.
+https://glitch.com/edit/#!/shrii-portfolio-
